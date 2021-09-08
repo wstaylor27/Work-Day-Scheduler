@@ -21,7 +21,6 @@ var nineSaveBtn = document.getElementById('nineSave');
 var saveNineField = () => {
     let nineAMText = nineAM.value;
     localStorage.setItem('nine', nineAMText);
-    //Checks function
     console.log(localStorage.getItem('nine'));
 }
 nineSaveBtn.addEventListener('click', saveNineField);
