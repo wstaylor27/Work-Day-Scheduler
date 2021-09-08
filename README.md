@@ -39,6 +39,6 @@ PRACTICE PRACTICE PRACTICE & RESEARCH RESEARCH RESEARCH. REPEAT. JS is not going
 
 ## URL
 
-https://wstaylor27.github.io/Code-Quizzer/
+https://wstaylor27.github.io/Work-Day-Scheduler/
 
-![image](https://user-images.githubusercontent.com/54382901/131600010-af4652d0-ec15-429e-b219-af48258e9428.png)
+![image](https://user-images.githubusercontent.com/54382901/132438132-d8ee1a0c-a07b-454f-84cc-daec6fd5be5a.png)
