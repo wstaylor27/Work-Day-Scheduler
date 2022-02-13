@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This was my fifth homework assignment. In order to complete the acceptance criteria, we must accomplish the following:
+In order to complete the acceptance criteria, we must accomplish the following:
 
 ```md
 GIVEN I am using a daily planner to create a schedule
