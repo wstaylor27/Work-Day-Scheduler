@@ -26,7 +26,7 @@ We were given starter code to begin the project. I deleted the past, present, an
 
 ## Functions and Setting Variables
  
-Similar to the last homework, I struggled with finding the correct variables. I researched other codes similar to my project and reference them within my js. I had to reverse engineer and use console.log to understand exactly how my code was responding in the DevTools.
+Similar to the to another repo, I struggled with finding the correct variables. I researched other codes similar to my project and reference them within my js. I had to reverse engineer and use console.log to understand exactly how my code was responding in the DevTools.
 
 
 ## Misc
